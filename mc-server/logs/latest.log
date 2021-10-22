@@ -1,0 +1,41 @@
+[03:18:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:18:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:18:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:18:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:18:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:18:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:18:55] [main/INFO]: Reloading ResourceManager: Default
+[03:18:56] [Worker-Main-4/INFO]: Loaded 7 recipes
+[03:18:56] [Worker-Main-4/INFO]: Loaded 1137 advancements
+[03:18:58] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[03:18:58] [Server thread/INFO]: Loading properties
+[03:18:58] [Server thread/INFO]: Default game type: SURVIVAL
+[03:18:58] [Server thread/INFO]: Generating keypair
+[03:18:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:18:58] [Server thread/INFO]: Using epoll channel type
+[03:18:58] [Server thread/INFO]: Preparing level "world"
+[03:18:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:18:59] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[03:18:59] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[03:19:03] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[03:19:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[03:19:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[03:19:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[03:19:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[03:19:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[03:19:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[03:19:03] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[03:19:04] [Worker-Main-5/INFO]: Preparing spawn area: 25%
+[03:19:04] [Worker-Main-4/INFO]: Preparing spawn area: 49%
+[03:19:05] [Worker-Main-6/INFO]: Preparing spawn area: 69%
+[03:19:05] [Worker-Main-4/INFO]: Preparing spawn area: 75%
+[03:19:06] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[03:19:06] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[03:19:07] [Worker-Main-6/INFO]: Preparing spawn area: 86%
+[03:19:07] [Worker-Main-4/INFO]: Preparing spawn area: 89%
+[03:19:08] [Worker-Main-5/INFO]: Preparing spawn area: 91%
+[03:19:08] [Server thread/INFO]: Time elapsed: 9403 ms
+[03:19:08] [Server thread/INFO]: Done (9.599s)! For help, type "help"
+[03:19:08] [Server thread/INFO]: Starting remote control listener
+[03:19:08] [Server thread/INFO]: Thread RCON Listener started
+[03:19:08] [Server thread/INFO]: RCON running on 0.0.0.0:25575
